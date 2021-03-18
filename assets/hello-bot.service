@@ -5,7 +5,7 @@ After=network-online.target
 
 [Service]
 WorkingDirectory=/home/ubuntu/hello-bot/
-Environment="HTTP_PROXY=127.0.0.1:1081"
+Environment="HTTPS_PROXY=127.0.0.1:1081"
 ExecStart=/home/ubuntu/hello-bot/bot
 Restart=always
 RestartSec=10
