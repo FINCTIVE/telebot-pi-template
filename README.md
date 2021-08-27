@@ -1,3 +1,5 @@
 Lazy side project template for telegram bot running in a Raspberry Pi(Linux). 
 
-related post: [在树莓派上部署 Telegram Bot](https://finctive.com/2020-11-telegram-bot-and-pi/)
+---
+
+**Archived, I think it's not a good idea to maintain a template with useful functions based on an existing framework.**
